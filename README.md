@@ -1,11 +1,12 @@
 # image_effector
 
+Exam project: Formati Multimediali (2013/14) - University of Milan Bicocca
+
 Executable java written with [Processing](https://processing.org/) to manipulate images. 
 
-This is an exam project of "Formati Multimediali" course (2013/14) in University of Milan - Bicocca.
-
 ### Target of project:
-- `void drawCenter()`:
+
+- `void drawCenter()`:
 draw little box which follow mouse's movements and shows the following informations:
 	- mouse coordinates x,y
 	- colored box with pixel color in x,y
